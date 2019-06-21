@@ -1,7 +1,7 @@
 {
     "name": "lusito/tiny-sse",
     "description": "TinySSE is small helper to publish Server Sent Events aka EventSource.",
-    "version": "1.0",
+    "version": "1.0.0",
     "keywords": [
         "SSE",
         "ServerSentEvents",

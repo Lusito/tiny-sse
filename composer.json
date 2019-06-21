@@ -1,0 +1,34 @@
+{
+    "name": "lusito/tiny-sse",
+    "description": "TinySSE is small helper to publish Server Sent Events aka EventSource.",
+    "version": "1.0",
+    "keywords": [
+        "SSE",
+        "ServerSentEvents",
+        "EventSource",
+        "push",
+        "commet",
+        "polling"
+    ],
+    "homepage": "https://github.com/lusito/tiny-sse",
+    "license": "Zlib",
+    "authors": [{
+            "name": "Santo Pfingsten",
+            "email": "core@lusito.info",
+            "homepage": "https://github.com/lusito",
+            "role": "Developer"
+        }
+    ],
+    "support": {
+        "issues": "https://github.com/lusito/tiny-sse/issues",
+        "source": "https://github.com/lusito/tiny-sse"
+    },
+    "require": {
+        "php": "^7.1.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "Lusito\\TinySSE\\": "src/"
+        }
+    }
+}
